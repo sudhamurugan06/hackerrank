@@ -1,1 +1,1 @@
-My day to day commits on problem solving- PYTHON
+My day to day commits on problem solving and projects!
